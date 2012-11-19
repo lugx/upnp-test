@@ -1,0 +1,6 @@
+The upnp-test use Eclipse to edit and compile
+
+turn to the bin/ dir, excute the command:
+
+java -cp ../lib/cling-core-1.0.3.jar:../lib/teleal-common-1.0.13.jar:. example.binarylight.Test client
+java -cp ../lib/cling-core-1.0.3.jar:../lib/teleal-common-1.0.13.jar:. example.binarylight.Test server
